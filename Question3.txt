@@ -1,0 +1,2 @@
+10000
+#First element of array is set to 1 but the rest are automatically set to 0 in C
